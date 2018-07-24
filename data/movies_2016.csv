@@ -1,0 +1,401 @@
+,Name,Domestic Total Gross,Distributor,Genre,MPAA Rating,Release Date,Runtime,Production Budget,Director,Producer,Actor
+0,Rogue One: A Star Wars Story,"$532,177,324",Buena Vista,Sci-Fi Adventure,PG-13,"December 16, 2016",2 hrs. 13 min.,$200 million,Gareth Edwards,Kathleen Kennedy,"Felicity Jones,Mads Mikkelsen,Alan Tudyk,Donnie Yen,Forest Whitaker,Diego Luna"
+1,Finding Dory,"$486,295,561",Buena Vista,Animation,PG,"June 17, 2016",1 hrs. 43 min.,N/A,Andrew Stanton,N/A,"Ellen DeGeneres,Albert Brooks"
+2,Captain America: Civil War,"$408,084,349",Buena Vista,Action / Adventure,PG-13,"May 6, 2016",2 hrs. 27 min.,$250 million,"Anthony Russo,Joe Russo",Kevin Feige,"Chris Evans,Robert Downey, Jr.,Scarlett Johansson,Sebastian Stan,Anthony Mackie,Paul Bettany,Jeremy Renner,Don Cheadle,Elizabeth Olsen,Paul Rudd,Chadwick Boseman,Frank Grillo,William Hurt,Martin Freeman,Tom Holland,Marisa Tomei"
+3,The Secret Life of Pets,"$368,384,330",Universal,Animation,PG,"July 8, 2016",1 hrs. 30 min.,$75 million,Chris Renaud,"Janet Healy,Christopher Meledandri",Kevin Hart
+4,The Jungle Book (2016),"$364,001,123",Buena Vista,Adventure,PG,"April 15, 2016",1 hrs. 45 min.,$175 million,Jon Favreau,N/A,"Scarlett Johansson,Idris Elba,Lupita Nyong'o,Ben Kingsley,Christopher Walken,Bill Murray"
+5,Deadpool,"$363,070,709",Fox,Action,R,"February 12, 2016",1 hrs. 46 min.,$58 million,N/A,"Lauren Schuler Donner,Simon Kinberg,Ryan Reynolds",Ryan Reynolds
+6,Zootopia,"$341,268,248",Buena Vista,Animation,PG,"March 4, 2016",1 hrs. 48 min.,N/A,Rich Moore,N/A,"Ginnifer Goodwin,Jason Bateman,Idris Elba,Octavia Spencer,Bonnie Hunt,Alan Tudyk"
+7,Batman v Superman: Dawn of Justice,"$330,360,194",Warner Bros.,Action / Adventure,PG-13,"March 25, 2016",2 hrs. 31 min.,$250 million,Zack Snyder,"David S. Goyer,Charles Roven,Deborah Snyder","Henry Cavill,Ben Affleck,Gal Gadot,Jesse Eisenberg,Jeremy Irons,Amy Adams,Laurence Fishburne,Diane Lane,Holly Hunter"
+8,Suicide Squad,"$325,100,054",Warner Bros.,Action / Adventure,PG-13,"August 5, 2016",2 hrs. 10 min.,$175 million,David Ayer,"Charles Roven,Deborah Snyder,Zack Snyder,Colin Wilson","Will Smith,Margot Robbie,Jared Leto,Jai Courtney,Cara Delevigne,Viola Davis,Common"
+9,Sing,"$270,395,425",Universal,Animation,PG,"December 21, 2016",1 hrs. 50 min.,$75 million,Garth Jennings,"Janet Healy,Christopher Meledandri","Matthew McConaughey,Reese Witherspoon,Seth MacFarlane,Scarlett Johansson,John C. Reilly,Taron Egerton"
+10,Moana,"$248,757,044",Buena Vista,Animation,PG,"November 23, 2016",1 hrs. 43 min.,N/A,N/A,N/A,"Dwayne Johnson,Jemaine Clement"
+11,Fantastic Beasts and Where To Find Them,"$234,037,575",Warner Bros.,Fantasy,PG-13,"November 18, 2016",2 hrs. 20 min.,$180 million,David Yates,N/A,"Eddie Redmayne,Katherine Waterston,Ezra Miller,Dan Fogler,Colin Farrell,Jon Voight,Ron Perlman"
+12,Doctor Strange,"$232,641,920",Buena Vista,Action / Adventure,PG-13,"November 4, 2016",1 hrs. 55 min.,$165 million,Scott Derrickson,Kevin Feige,"Benedict Cumberbatch,Tilda Swinton,Chiwetel Ejiofor,Rachel McAdams,Mads Mikkelsen"
+13,Hidden Figures,"$169,607,287",Fox,Drama,PG,"December 25, 2016",2 hrs. 7 min.,$25 million,Theodore Melfi,Peter Chernin,"Taraji P. Henson,Octavia Spencer,Kirsten Dunst,Kevin Costner,Mahershala Ali"
+14,Jason Bourne,"$162,434,410",Universal,Action,PG-13,"July 29, 2016",2 hrs. 3 min.,$120 million,Paul Greengrass,"Matt Damon,Paul Greengrass,Frank Marshall","Matt Damon,Tommy Lee Jones,Julia Stiles,Alicia Vikander"
+15,Star Trek Beyond,"$158,848,340",Paramount,Sci-Fi Adventure,PG-13,"July 22, 2016",2 hrs. 0 min.,$185 million,Justin Lin,"J.J. Abrams,Bryan Burk,David Ellison,Roberto Orci","Sofia Boutella,Idris Elba,Simon Pegg,Chris Pine,Zoe Saldana,Karl Urban,Anton Yelchin"
+16,X-Men: Apocalypse,"$155,442,489",Fox,Action / Adventure,PG-13,"May 27, 2016",2 hrs. 23 min.,$178 million,Bryan Singer,"Lauren Schuler Donner,Simon Kinberg,Hutch Parker,Bryan Singer","James McAvoy,Michael Fassbender,Jennifer Lawrence,Oscar Isaac,Nicholas Hoult,Rose Byrne,Tye Sheridan,Kodi Smit-McPhee"
+17,Trolls,"$153,707,064",Fox,Animation,PG,"November 4, 2016",1 hrs. 34 min.,$125 million,Mike Mitchell,N/A,"Anna Kendrick,Justin Timberlake,Russell Brand,Zooey Deschanel,Christopher Mintz-Plasse,Quvenzhane Wallis"
+18,La La Land,"$151,101,803",Lionsgate/Summit,Musical,PG-13,"December 9, 2016",2 hrs. 8 min.,$30 million,Damien Chazelle,Marc Platt,"Ryan Gosling,Emma Stone"
+19,Kung Fu Panda 3,"$143,528,619",Fox,Animation,PG,"January 29, 2016",1 hrs. 35 min.,$145 million,Jennifer Yuh Nelson,N/A,"Jack Black,Jackie Chan,Bryan Cranston,Dustin Hoffman,Kate Hudson,Angelina Jolie,Lucy Liu,Seth Rogen"
+20,Ghostbusters (2016),"$128,350,574",Sony / Columbia,Horror Comedy,PG-13,"July 15, 2016",1 hrs. 48 min.,$144 million,Paul Feig,Ivan Reitman,"Melissa McCarthy,Kristen Wiig,Michael K. Williams,Chris Hemsworth"
+21,Central Intelligence,"$127,440,871",Warner Bros. (New Line),Comedy,PG-13,"June 17, 2016",1 hrs. 47 min.,$50 million,Rawson Marshall Thurber,Scott Stuber,"Kumail Nanjiani,Dwayne Johnson,Kevin Hart,Amy Ryan"
+22,The Legend of Tarzan,"$126,643,061",Warner Bros.,Action / Adventure,PG-13,"July 1, 2016",1 hrs. 49 min.,$180 million,David Yates,N/A,"Alexander Skarsgård,Samuel L. Jackson,Margot Robbie,Christoph Waltz,Djimon Hounsou"
+23,Sully,"$125,070,033",Warner Bros.,Drama,PG-13,"September 9, 2016",1 hrs. 36 min.,$60 million,Clint Eastwood,N/A,"Aaron Eckhart,Tom Hanks,Laura Linney"
+24,Bad Moms,"$113,257,297",STX Entertainment,Comedy,R,"July 29, 2016",1 hrs. 41 min.,$20 million,"Jon Lucas,Scott Moore",N/A,"Mila Kunis,Kristen Bell,Christina Applegate,Jada Pinkett-Smith,Clark Duke"
+25,The Angry Birds Movie,"$107,509,366",Sony / Columbia,Animation,PG,"May 20, 2016",1 hrs. 37 min.,$73 million,N/A,N/A,"Jason Sudeikis,Josh Gad,Danny McBride,Sean Penn"
+26,Independence Day: Resurgence,"$103,144,286",Fox,Sci-Fi Adventure,PG-13,"June 24, 2016",2 hrs. 0 min.,$165 million,Roland Emmerich,"Dean Devlin,Roland Emmerich,Harald Kloser","Liam Hemsworth,Jeff Goldblum,Joey King"
+27,The Conjuring 2,"$102,470,008",Warner Bros. (New Line),Horror,R,"June 10, 2016",2 hrs. 14 min.,$40 million,James Wan,N/A,"Vera Farmiga,Patrick Wilson"
+28,Arrival,"$100,546,139",Paramount,Sci-Fi,PG-13,"November 11, 2016",1 hrs. 56 min.,$47 million,Denis Villeneuve,N/A,"Amy Adams,Jeremy Renner,Forest Whitaker"
+29,Passengers (2016),"$100,014,699",Sony / Columbia,Sci-Fi,PG-13,"December 21, 2016",1 hrs. 56 min.,$110 million,Morten Tyldum,N/A,"Jennifer Lawrence,Chris Pratt,Michael Sheen,Laurence Fishburne"
+30,Sausage Party,"$97,685,686",Sony / Columbia,Animation,R,"August 12, 2016",1 hrs. 29 min.,$19 million,Conrad Vernon,"Megan Ellison,Evan Goldberg,Jonah Hill,Seth Rogen,Conrad Vernon","Seth Rogen,Kristen Wiig,Salma Hayek,Edward Norton,Michael Cera,James Franco,Jonah Hill,Paul Rudd,Danny McBride"
+31,The Magnificent Seven (2016),"$93,432,655",Sony / Columbia,Western,PG-13,"September 23, 2016",2 hrs. 13 min.,$90 million,Antoine Fuqua,N/A,"Cam Gigandet,Ethan Hawke,Chris Pratt,Peter Sarsgaard,Denzel Washington"
+32,Ride Along 2,"$91,221,830",Universal,Action Comedy,PG-13,"January 15, 2016",1 hrs. 41 min.,$40 million,Tim Story,"Ice Cube,Will Packer","Kevin Hart,Ice Cube,Benjamin Bratt,Tyrese Gibson"
+33,Don't Breathe,"$89,217,875",Sony / Screen Gems,Horror Thriller,R,"August 26, 2016",1 hrs. 28 min.,$9.9 million,Fede Alvarez,"Sam Raimi,Fede Alvarez",N/A
+34,Miss Peregrine's Home for Peculiar Children,"$87,242,834",Fox,Fantasy,PG-13,"September 30, 2016",2 hrs. 7 min.,$110 million,Tim Burton,Peter Chernin,"Eva Green,Allison Janney,Judi Dench,Samuel L. Jackson"
+35,The Accountant,"$86,260,045",Warner Bros.,Drama,R,"October 14, 2016",2 hrs. 8 min.,$44 million,Gavin O'Connor,N/A,"Ben Affleck,Anna Kendrick"
+36,Teenage Mutant Ninja Turtles: Out of the Shadows,"$82,051,601",Paramount,Action / Adventure,PG-13,"June 3, 2016",1 hrs. 52 min.,$135 million,Dave Green,"Michael Bay,Andrew Form,Brad Fuller,Scott Mednick","Megan Fox,Laura Linney,Tyler Perry"
+37,The Purge: Election Year,"$79,213,375",Universal,Thriller,R,"July 1, 2016",1 hrs. 45 min.,$10 million,N/A,"Michael Bay,Jason Blum,Andrew Form,Brad Fuller",Frank Grillo
+38,Alice Through the Looking Glass,"$77,041,381",Buena Vista,Family Adventure,PG,"May 27, 2016",1 hrs. 52 min.,$170 million,N/A,"Tim Burton,Joe Roth","Johnny Depp,Anne Hathaway,Mia Wasikowska,Helena Bonham Carter,Rhys Ifans,Alan Rickman,Sacha Baron Cohen"
+39,Pete's Dragon (2016),"$76,233,151",Buena Vista,Family,PG,"August 12, 2016",1 hrs. 42 min.,$65 million,N/A,N/A,"Bryce Dallas Howard,Robert Redford,Karl Urban"
+40,The Girl on the Train (2016),"$75,395,035",Universal,Thriller,R,"October 7, 2016",1 hrs. 52 min.,$45 million,Tate Taylor,Marc Platt,"Emily Blunt,Rebecca Ferguson,Luke Evans,Allison Janney,Edgar Ramirez,Lisa Kudrow"
+41,Boo! A Madea Halloween,"$73,206,343",Lionsgate,Horror Comedy,PG-13,"October 21, 2016",1 hrs. 43 min.,$20 million,Tyler Perry,"Ozzie Areu,Tyler Perry","Tyler Perry,Bella Thorne"
+42,Storks,"$72,679,278",Warner Bros.,Animation,PG,"September 23, 2016",1 hrs. 29 min.,$70 million,Nick Stoller,"Brad Lewis,Nick Stoller","Andy Samberg,Jennifer Aniston,Ty Burrell,Kelsey Grammer,Jordan Peele"
+43,10 Cloverfield Lane,"$72,082,998",Paramount,Thriller,PG-13,"March 11, 2016",1 hrs. 45 min.,N/A,N/A,J.J. Abrams,"Mary Elizabeth Winstead,John Goodman"
+44,Lights Out,"$67,268,835",Warner Bros. (New Line),Horror,PG-13,"July 22, 2016",1 hrs. 21 min.,$4.9 million,David F. Sandberg,"Eric Heisserer,James Wan","Teresa Palmer,Billy Burke,Maria Bello"
+45,Hacksaw Ridge,"$67,209,615",Lionsgate,Action Drama,R,"November 4, 2016",2 hrs. 11 min.,$40 million,Mel Gibson,N/A,"Andrew Garfield,Sam Worthington,Luke Bracey,Teresa Palmer,Hugo Weaving,Vince Vaughn"
+46,The Divergent Series: Allegiant,"$66,184,051",Lionsgate/Summit,Action / Adventure,PG-13,"March 18, 2016",2 hrs. 1 min.,N/A,Robert Schwentke,"Lucy Fisher,Douglas Wick","Ansel Elgort,Theo James,Octavia Spencer,Ray Stevenson,Miles Teller,Naomi Watts,Shailene Woodley"
+47,Now You See Me 2,"$65,075,540",Lionsgate/Summit,Thriller,PG-13,"June 10, 2016",2 hrs. 9 min.,N/A,Jon Chu,"Alex Kurtzman,Roberto Orci","Mark Ruffalo,Woody Harrelson,Jesse Eisenberg,Dave Franco,Morgan Freeman,Michael Caine,Daniel Radcliffe"
+48,Ice Age: Collision Course,"$64,063,008",Fox,Animation,PG,"July 22, 2016",1 hrs. 34 min.,$105 million,N/A,N/A,"Adam DeVine,John Leguizamo,Queen Latifah,Simon Pegg,Jennifer Lopez"
+49,The Boss,"$63,285,885",Universal,Comedy,R,"April 8, 2016",1 hrs. 39 min.,$29 million,N/A,"Will Ferrell,Melissa McCarthy,Adam McKay","Melissa McCarthy,Kristen Bell,Kathy Bates"
+50,London Has Fallen,"$62,678,608",Focus Features,Action,R,"March 4, 2016",1 hrs. 39 min.,$60 million,N/A,Peter Schlessel,"Angela Bassett,Gerard Butler,Aaron Eckhart,Morgan Freeman,Jackie Earle Haley,Melissa Leo,Radha Mitchell"
+51,Miracles from Heaven,"$61,705,123",TriStar,Drama,PG,"March 16, 2016",1 hrs. 49 min.,$13 million,N/A,"DeVon Franklin,T.D. Jakes,Joe Roth","Eugenio Derbez,Jennifer Garner,Queen Latifah"
+52,Deepwater Horizon,"$61,433,527",Lionsgate/Summit,Action Drama,PG-13,"September 30, 2016",1 hrs. 47 min.,$110 million,Peter Berg,"Lorenzo di Bonaventura,Mark Vahradian","Mark Wahlberg,Kurt Russell,Gina Rodriguez,John Malkovich,Kate Hudson,Peter Berg"
+53,Why Him?,"$60,323,786",Fox,Comedy,R,"December 23, 2016",1 hrs. 51 min.,$38 million,N/A,N/A,"James Franco,Bryan Cranston,Cedric the Entertainer"
+54,My Big Fat Greek Wedding 2,"$59,689,605",Universal,Comedy,PG-13,"March 25, 2016",1 hrs. 34 min.,N/A,Kirk Jones,N/A,"John Corbett,Nia Vardalos"
+55,Jack Reacher: Never Go Back,"$58,697,076",Paramount,Crime Drama,PG-13,"October 21, 2016",1 hrs. 58 min.,$60 million,Edward Zwick,"Tom Cruise,David Ellison",Tom Cruise
+56,Fences,"$57,682,904",Paramount,Drama,PG-13,"December 16, 2016",2 hrs. 18 min.,$24 million,Denzel Washington,N/A,"Denzel Washington,Viola Davis"
+57,Me Before You,"$56,245,075",Warner Bros. (New Line),Romance,PG-13,"June 3, 2016",1 hrs. 50 min.,$20 million,N/A,N/A,N/A
+58,The BFG,"$55,483,770",Buena Vista,Adventure,PG,"July 1, 2016",1 hrs. 57 min.,$140 million,Steven Spielberg,"Frank Marshall,Steven Spielberg","Mark Rylance,Rebecca Hall,Jemaine Clement"
+59,Neighbors 2: Sorority Rising,"$55,455,765",Universal,Comedy,R,"May 20, 2016",1 hrs. 31 min.,N/A,Nick Stoller,"Evan Goldberg,Brendan O'Brien,Seth Rogen,James Weaver","Zac Efron,Rose Byrne,Seth Rogen,Chloe Moretz"
+60,The Shallows,"$55,124,043",Sony / Columbia,Horror,PG-13,"June 24, 2016",1 hrs. 25 min.,$17 million,Jaume Collet-Serra,N/A,Blake Lively
+61,Office Christmas Party,"$54,767,494",Paramount,Comedy,R,"December 9, 2016",1 hrs. 45 min.,$45 million,"Josh Gordon,Will Speck",Scott Stuber,"Jennifer Aniston,Jason Bateman"
+62,Assassin's Creed,"$54,647,948",Fox,Action,PG-13,"December 21, 2016",2 hrs. 20 min.,$125 million,N/A,"Patrick Crowley,Michael Fassbender,Frank Marshall,Arnon Milchan","Michael Fassbender,Marion Cotillard,Jeremy Irons,Brendan Gleeson,Michael K. Williams"
+63,Barbershop: The Next Cut,"$54,030,051",Warner Bros. (New Line),Comedy,PG-13,"April 15, 2016",1 hrs. 52 min.,N/A,Malcolm D. Lee,N/A,"Ice Cube,Cedric the Entertainer,Regina Hall,Common,Nicki Minaj"
+64,13 Hours: The Secret Soldiers of Benghazi,"$52,853,219",Paramount,Drama,R,"January 15, 2016",2 hrs. 24 min.,$50 million,Michael Bay,N/A,John Krasinski
+65,Lion,"$51,738,905",Weinstein Company,Drama,PG-13,"November 25, 2016",2 hrs. 0 min.,$12 million,N/A,N/A,"Nicole Kidman,Rooney Mara,Dev Patel"
+66,The Huntsman: Winter's War,"$48,390,190",Universal,Action / Adventure,PG-13,"April 22, 2016",1 hrs. 54 min.,$115 million,N/A,Joe Roth,"Chris Hemsworth,Charlize Theron,Jessica Chastain,Emily Blunt,Nick Frost,Sophie Cookson"
+67,Kubo and the Two Strings,"$48,023,088",Focus Features,Animation,PG,"August 19, 2016",1 hrs. 41 min.,$60 million,Travis Knight,N/A,"Matthew McConaughey,Charlize Theron,Rooney Mara,Ralph Fiennes"
+68,Manchester by the Sea,"$47,695,371",Roadside Attractions,Drama,R,"November 18, 2016",2 hrs. 15 min.,$9 million,Kenneth Lonergan,N/A,"Casey Affleck,Michelle Williams"
+69,Warcraft,"$47,365,290",Universal,Fantasy,PG-13,"June 10, 2016",2 hrs. 3 min.,$160 million,Duncan Jones,"Jon Jashni,Charles Roven,Thomas Tull","Ben Foster,Paula Patton,Dominic Cooper"
+70,How to Be Single,"$46,843,513",Warner Bros. (New Line),Romantic Comedy,R,"February 12, 2016",1 hrs. 50 min.,$38 million,N/A,N/A,"Leslie Mann,Rebel Wilson"
+71,Mike and Dave Need Wedding Dates,"$46,009,673",Fox,Comedy,R,"July 8, 2016",1 hrs. 38 min.,$33 million,N/A,N/A,"Adam DeVine,Zac Efron,Anna Kendrick,Kumail Nanjiani,Aubrey Plaza"
+72,War Dogs,"$43,034,523",Warner Bros.,Comedy / Drama,R,"August 19, 2016",1 hrs. 54 min.,N/A,Todd Phillips,N/A,"Jonah Hill,Miles Teller"
+73,Almost Christmas,"$42,158,780",Universal,Comedy,PG-13,"November 11, 2016",1 hrs. 52 min.,$17 million,N/A,Will Packer,"Danny Glover,Omar Epps,Mo'Nique"
+74,Money Monster,"$41,012,075",TriStar,Drama / Thriller,R,"May 13, 2016",1 hrs. 35 min.,$27 million,Jodie Foster,"George Clooney,Grant Heslov","George Clooney,Jack O'Connell,Julia Roberts"
+75,Allied,"$40,098,064",Paramount,Romantic Thriller,R,"November 23, 2016",2 hrs. 1 min.,$85 million,Robert Zemeckis,N/A,"Marion Cotillard,Brad Pitt"
+76,Nerve,"$38,583,626",Lionsgate,Thriller,PG-13,"July 27, 2016",1 hrs. 36 min.,$19 million,"Henry Joost,Ariel Schulman",N/A,"Dave Franco,Emma Roberts"
+77,Risen,"$36,880,033",Sony / Columbia,Action / Adventure,PG-13,"February 19, 2016",1 hrs. 47 min.,$20 million,Kevin Reynolds,N/A,N/A
+78,The Nice Guys,"$36,261,763",Warner Bros.,Comedy Thriller,R,"May 20, 2016",1 hrs. 56 min.,$50 million,Shane Black,N/A,"Ryan Gosling,Russell Crowe,Kim Basinger"
+79,The Boy (2016),"$35,819,556",STX Entertainment,Horror,PG-13,"January 22, 2016",1 hrs. 38 min.,$10 million,William Brent Bell,N/A,N/A
+80,Dirty Grandpa,"$35,593,113",Lionsgate,Comedy,R,"January 22, 2016",1 hrs. 42 min.,$25 million,N/A,N/A,"Robert DeNiro,Zac Efron,Aubrey Plaza,Julianne Hough"
+81,Ouija: Origin of Evil,"$35,144,505",Universal,Horror,PG-13,"October 21, 2016",1 hrs. 39 min.,$9 million,Mike Flanagan,"Michael Bay,Jason Blum,Andrew Form,Brad Fuller",N/A
+82,The 5th Wave,"$34,916,787",Sony / Columbia,Sci-Fi Action,PG-13,"January 22, 2016",1 hrs. 52 min.,$38 million,N/A,N/A,"Chloe Moretz,Ron Livingston,Liev Schreiber"
+83,Inferno,"$34,343,574",Sony / Columbia,Thriller,PG-13,"October 28, 2016",2 hrs. 1 min.,$75 million,Ron Howard,"Brian Grazer,Ron Howard","Tom Hanks,Felicity Jones,Irrfan Khan,Ben Foster,Omar Sy,Ben Foster"
+84,Mother's Day,"$32,492,859",Open Road Films,Comedy,PG-13,"April 29, 2016",1 hrs. 58 min.,$25 million,Garry Marshall,N/A,"Jennifer Aniston,Kate Hudson,Timothy Olyphant,Julia Roberts,Jason Sudeikis"
+85,Patriots Day,"$31,886,361",Lionsgate,Drama,R,"December 21, 2016",2 hrs. 10 min.,$45 million,Peter Berg,"Dylan Clark,Stephen Levinson,Hutch Parker,Scott Stuber,Mark Wahlberg","Mark Wahlberg,Michelle Monaghan,John Goodman,Kevin Bacon"
+86,Gods of Egypt,"$31,153,464",Lionsgate/Summit,Action / Adventure,PG-13,"February 26, 2016",2 hrs. 7 min.,$140 million,Alex Proyas,"Stephen Jones,Alex Proyas","Gerard Butler,Geoffrey Rush"
+87,Collateral Beauty,"$31,016,021",Warner Bros. (New Line),Drama,PG-13,"December 16, 2016",1 hrs. 34 min.,$36 million,David Frankel,N/A,"Will Smith,Helen Mirren,Edward Norton,Naomie Harris,Keira Knightley,Kate Winslet"
+88,"Hail, Caesar!","$30,498,085",Universal,Comedy,PG-13,"February 5, 2016",1 hrs. 40 min.,$22 million,"Ethan Coen,Joel Coen","Tim Bevan,Ethan Coen,Joel Coen,Eric Fellner","Josh Brolin,George Clooney,Ralph Fiennes,Tilda Swinton,Channing Tatum,Scarlett Johansson,Jonah Hill,Frances McDormand"
+89,When the Bough Breaks,"$29,747,603",Sony / Screen Gems,Drama,PG-13,"September 9, 2016",1 hrs. 47 min.,$10 million,N/A,N/A,"Morris Chestnut,Regina Hall"
+90,Zoolander 2,"$28,848,693",Paramount,Comedy,PG-13,"February 12, 2016",1 hrs. 40 min.,N/A,Ben Stiller,N/A,"Penelope Cruz,Will Ferrell,Ben Stiller,Kristen Wiig,Owen Wilson"
+91,Moonlight (2016),"$27,854,932",A24,Drama,R,"October 21, 2016",1 hrs. 50 min.,$4 million,N/A,N/A,"Mahershala Ali,Naomie Harris"
+92,The Finest Hours,"$27,569,558",Buena Vista,Thriller,PG-13,"January 29, 2016",1 hrs. 49 min.,N/A,Craig Gillespie,N/A,"Kyle Gallner,Chris Pine,Casey Affleck"
+93,Florence Foster Jenkins,"$27,383,770",Paramount,Drama,PG-13,"August 12, 2016",1 hrs. 50 min.,$29 million,Stephen Frears,N/A,"Rebecca Ferguson,Hugh Grant,Meryl Streep"
+94,Hell or High Water,"$27,007,844",Lionsgate,Action Drama,R,"August 12, 2016",1 hrs. 42 min.,$12 million,N/A,"Sidney Kimmel,Peter Berg,Julie Yorn","Jeff Bridges,Chris Pine,Ben Foster"
+95,The Forest,"$26,594,261",Focus Features,Horror,PG-13,"January 8, 2016",1 hrs. 35 min.,$10 million,N/A,N/A,N/A
+96,Ben-Hur (2016),"$26,410,477",Paramount,Historical Epic,PG-13,"August 19, 2016",2 hrs. 3 min.,$100 million,Timur Bekmambetov,N/A,"Rodrigo Santoro,Morgan Freeman"
+97,The Witch,"$25,138,705",A24,Horror,R,"February 19, 2016",1 hrs. 32 min.,$4 million,N/A,N/A,N/A
+98,Bridget Jones's Baby,"$24,252,420",Universal,Romantic Comedy,R,"September 16, 2016",2 hrs. 2 min.,$35 million,Sharon Maguire,N/A,"Colin Firth,Renee Zellweger"
+99,Kevin Hart: What Now?,"$23,591,043",Universal,Concert,R,"October 14, 2016",1 hrs. 36 min.,$9.9 million,N/A,N/A,Kevin Hart
+100,Whiskey Tango Foxtrot,"$23,083,334",Paramount,Comedy,R,"March 4, 2016",1 hrs. 52 min.,$35 million,"Glenn Ficarra,John Requa","Ian Bryce,Tina Fey,Lorne Michaels","Tina Fey,Margot Robbie,Martin Freeman,Alfred Molina,Billy Bob Thornton"
+101,Snowden,"$21,587,519",Open Road Films,Thriller,R,"September 16, 2016",2 hrs. 14 min.,$40 million,Oliver Stone,N/A,"Lakeith Stanfield,Joseph Gordon-Levitt,Shailene Woodley,Melissa Leo,Tom Wilkinson,Rhys Ifans,Timothy Olyphant"
+102,Mechanic: Resurrection,"$21,218,403",Lionsgate/Summit,Action,R,"August 26, 2016",1 hrs. 39 min.,N/A,N/A,N/A,"Jason Statham,Jessica Alba,Tommy Lee Jones,Michelle Yeoh"
+103,Free State of Jones,"$20,810,036",STX Entertainment,Action Drama,R,"June 24, 2016",2 hrs. 19 min.,$50 million,Gary Ross,N/A,Matthew McConaughey
+104,Blair Witch,"$20,777,061",Lionsgate,Horror,R,"September 16, 2016",1 hrs. 30 min.,$5 million,Adam Wingard,N/A,N/A
+105,God's Not Dead 2,"$20,774,575",Pure Flix,Drama,PG,"April 1, 2016",2 hrs. 1 min.,N/A,N/A,N/A,N/A
+106,Keanu,"$20,591,853",Warner Bros. (New Line),Comedy,R,"April 29, 2016",1 hrs. 38 min.,$15 million,N/A,N/A,"Jordan Peele,Will Forte,Nia Long,Tiffany Haddish"
+107,Middle School: The Worst Years of My Life,"$20,007,149",Lionsgate,Comedy,PG,"October 7, 2016",1 hrs. 29 min.,$8.5 million,Steve Carr,N/A,N/A
+108,Nine Lives (2016),"$19,700,032",EuropaCorp,Comedy,PG,"August 5, 2016",1 hrs. 27 min.,$30 million,Barry Sonnenfeld,N/A,"Jennifer Garner,Kevin Spacey,Christopher Walken"
+109,Race (2016),"$19,206,207",Focus Features,Drama,PG-13,"February 19, 2016",2 hrs. 14 min.,N/A,Stephen Hopkins,N/A,"Jeremy Irons,Jason Sudeikis,William Hurt"
+110,The Choice,"$18,730,891",Lionsgate,Romance,PG-13,"February 5, 2016",1 hrs. 51 min.,N/A,Ross Katz,N/A,"Teresa Palmer,Tom Wilkinson"
+111,Eye in the Sky,"$18,704,595",Bleecker Street,Drama / Thriller,R,"March 11, 2016",1 hrs. 42 min.,N/A,N/A,N/A,"Helen Mirren,Alan Rickman"
+112,Bad Santa 2,"$17,782,178",Broad Green Pictures,Comedy,R,"November 23, 2016",1 hrs. 27 min.,$26 million,Mark S. Waters,N/A,"Kathy Bates,Tony Cox,Billy Bob Thornton"
+113,Masterminds (2016),"$17,368,022",Relativity,Comedy,PG-13,"September 30, 2016",1 hrs. 34 min.,N/A,N/A,"Ryan Kavanaugh,Danny McBride,Lorne Michaels,Tucker Tooley","Zach Galifianakis,Owen Wilson,Kristen Wiig"
+114,Norm of the North,"$17,062,499",Lionsgate,Animation,PG,"January 15, 2016",1 hrs. 30 min.,N/A,N/A,N/A,Rob Schneider
+115,The Birth of a Nation,"$15,861,566",Fox Searchlight,Drama,R,"October 7, 2016",1 hrs. 50 min.,$8.5 million,N/A,N/A,"Jackie Earle Haley,Armie Hammer"
+116,Eddie the Eagle,"$15,789,389",Fox,Drama,PG-13,"February 26, 2016",1 hrs. 45 min.,$23 million,N/A,Matthew Vaughn,"Christopher Walken,Taron Egerton,Hugh Jackman"
+117,The Infiltrator,"$15,436,808",Broad Green Pictures,Drama / Thriller,R,"July 13, 2016",2 hrs. 7 min.,N/A,Brad Furman,N/A,"Bryan Cranston,John Leguizamo,Amy Ryan"
+118,Keeping Up with the Joneses,"$14,904,426",Fox,Comedy,PG-13,"October 21, 2016",1 hrs. 41 min.,$40 million,Greg Mottola,N/A,"Isla Fisher,Gal Gadot,Zach Galifianakis,Jon Hamm"
+119,Criminal (2016),"$14,708,696",Lionsgate/Summit,Action,R,"April 15, 2016",1 hrs. 53 min.,N/A,N/A,N/A,"Kevin Costner,Ryan Reynolds,Gary Oldman,Tommy Lee Jones,Gal Gadot,Alice Eve"
+120,A Beautiful Planet,,IMAX,Documentary,G,"April 29, 2016",0 hrs. 45 min.,N/A,N/A,N/A,N/A
+121,"Hello, My Name is Doris","$14,444,999",Roadside Attractions,Comedy,R,"March 11, 2016",1 hrs. 35 min.,N/A,N/A,N/A,"Sally Field,Kumail Nanjiani"
+122,The Edge of Seventeen,"$14,431,633",STX Entertainment,Comedy,R,"November 18, 2016",1 hrs. 39 min.,$9 million,N/A,"James L. Brooks,Richard Sakai","Woody Harrelson,Hailee Steinfeld"
+123,Love & Friendship,"$14,016,568",Roadside Attractions,Comedy,PG,"May 13, 2016",1 hrs. 32 min.,N/A,Whit Stillman,N/A,"Kate Beckinsale,Chloe Sevigny"
+124,Jackie,"$13,960,394",Fox Searchlight,Drama,R,"December 2, 2016",1 hrs. 35 min.,N/A,Pablo Larrain,N/A,"Natalie Portman,Greta Gerwig,Billy Crudup,Peter Sarsgaard"
+125,Hillary's America: The Secret History of the Democratic Party,"$13,099,931",Quality Flix,Documentary,PG-13,"July 15, 2016",1 hrs. 40 min.,N/A,Dinesh D'Souza,N/A,N/A
+126,Triple 9,"$12,639,297",Open Road Films,Thriller,R,"February 26, 2016",1 hrs. 55 min.,N/A,John Hillcoat,N/A,"Casey Affleck,Chiwetel Ejiofor,Gal Gadot,Woody Harrelson,Anthony Mackie,Teresa Palmer,Michael K. Williams,Kate Winslet"
+127,The Light Between Oceans,"$12,545,979",Buena Vista,Drama,PG-13,"September 2, 2016",2 hrs. 12 min.,$20 million,Derek Cianfrance,N/A,"Michael Fassbender,Alicia Vikander,Rachel Weisz"
+128,Dangal,"$12,391,761",UTV Communications,Drama,Unrated,"December 21, 2016",2 hrs. 30 min.,N/A,N/A,N/A,N/A
+129,Fifty Shades of Black,"$11,686,940",Open Road Films,Comedy,R,"January 29, 2016",1 hrs. 32 min.,N/A,Michael Tiddes,N/A,Marlon Wayans
+130,No Manches Frida,"$11,528,613",Pantelion,Comedy,PG-13,"September 2, 2016",1 hrs. 40 min.,N/A,N/A,N/A,N/A
+131,Cafe Society,"$11,103,205",Lionsgate,Comedy / Drama,PG-13,"July 15, 2016",1 hrs. 36 min.,N/A,Woody Allen,N/A,"Steve Carell,Jesse Eisenberg,Blake Lively,Parker Posey,Kristen Stewart"
+132,Pride and Prejudice and Zombies,"$10,938,134",Sony / Screen Gems,Comedy,PG-13,"February 5, 2016",1 hrs. 48 min.,$28 million,Burr Steers,Natalie Portman,Lena Headey
+133,The Darkness,"$10,753,574",BH Tilt,Horror,PG-13,"May 13, 2016",1 hrs. 32 min.,N/A,N/A,Jason Blum,"Kevin Bacon,Radha Mitchell"
+134,Nocturnal Animals,"$10,663,357",Focus Features,Drama / Thriller,R,"November 18, 2016",1 hrs. 55 min.,N/A,Tom Ford,N/A,"Amy Adams,Jake Gyllenhaal,Michael Shannon,Aaron Johnson,Isla Fisher,Armie Hammer,Laura Linney"
+135,Live By Night,"$10,378,555",Warner Bros.,Crime,R,"December 25, 2016",2 hrs. 8 min.,N/A,Ben Affleck,"Ben Affleck,Leonardo DiCaprio","Ben Affleck,Elle Fanning,Brendan Gleeson,Chris Messina,Zoe Saldana,Chris Cooper,Clark Gregg"
+136,The Perfect Match,"$9,669,521",Lionsgate,Romantic Comedy,R,"March 11, 2016",1 hrs. 36 min.,N/A,Bille Woodruff,N/A,Paula Patton
+137,Popstar: Never Stop Never Stopping,"$9,639,125",Universal,Comedy,R,"June 3, 2016",1 hrs. 26 min.,N/A,"Akiva Schaffer,Jorma Taccone","Judd Apatow,Rodney Rothman,Andy Samberg,Akiva Schaffer,Jorma Taccone","Andy Samberg,Akiva Schaffer,Jorma Taccone"
+138,Hardcore Henry,"$9,252,038",STX Entertainment,Action Thriller,R,"April 8, 2016",1 hrs. 35 min.,N/A,N/A,Timur Bekmambetov,Sharlto Copley
+139,Meet the Blacks,"$9,097,072",Freestyle Releasing,Comedy,R,"April 1, 2016",1 hrs. 33 min.,N/A,N/A,N/A,N/A
+140,Queen of Katwe,"$8,874,389",Buena Vista,Sports Drama,PG,"September 23, 2016",2 hrs. 4 min.,$15 million,Mira Nair,N/A,"Lupita Nyong'o,David Oyelowo"
+141,Ratchet & Clank,"$8,821,329",Focus Features,Animation,PG,"April 29, 2016",1 hrs. 34 min.,N/A,N/A,N/A,"Rosario Dawson,Paul Giamatti,John Goodman,Sylvester Stallone,Bella Thorne"
+142,The Lobster (US Release),,A24,Comedy / Drama,R,"May 13, 2016",1 hrs. 58 min.,N/A,N/A,N/A,"Colin Farrell,John C. Reilly,Rachel Weisz,Ben Whishaw"
+143,The Wild Life (2016),"$8,005,586",Lionsgate/Summit,Animation,PG,"September 9, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+144,Loving ,"$7,751,969",Focus Features,Drama,PG-13,"November 4, 2016",2 hrs. 3 min.,N/A,Jeff Nichols,N/A,Michael Shannon
+145,Silence (2016),"$7,100,177",Paramount,Drama,R,"December 23, 2016",2 hrs. 39 min.,N/A,Martin Scorsese,N/A,"Liam Neeson,Andrew Garfield"
+146,Shut In,"$6,900,335",EuropaCorp,Thriller,PG-13,"November 11, 2016",1 hrs. 31 min.,N/A,N/A,N/A,Naomi Watts
+147,The Brothers Grimsby,"$6,874,837",Sony / Columbia,Comedy,R,"March 11, 2016",1 hrs. 23 min.,N/A,Louis Leterrier,N/A,"Sacha Baron Cohen,Penelope Cruz,Mark Strong,Rebel Wilson,Gabourey Sidibe,Isla Fisher"
+148,The Young Messiah,"$6,490,401",Focus Features,Historical Drama,PG-13,"March 11, 2016",1 hrs. 51 min.,N/A,N/A,N/A,N/A
+149,Southside with You,"$6,304,223",Roadside Attractions,Drama,PG-13,"August 26, 2016",1 hrs. 21 min.,N/A,N/A,N/A,N/A
+150,Sultan,"$6,200,000",Yash Raj,Drama,Unrated,"July 6, 2016",2 hrs. 23 min.,$13.43 million,N/A,N/A,N/A
+151,Captain Fantastic,"$5,879,736",Bleecker Street,Drama,R,"July 8, 2016",1 hrs. 54 min.,N/A,N/A,N/A,Viggo Mortensen
+152,20th Century Women,"$5,664,764",A24,Comedy / Drama,R,"December 28, 2016",1 hrs. 58 min.,N/A,Mike Mills,N/A,"Annette Bening,Elle Fanning,Greta Gerwig,Billy Crudup"
+153,Hunt for the Wilderpeople,"$5,205,468",The Orchard,Adventure Comedy,PG-13,"June 24, 2016",1 hrs. 41 min.,N/A,Taika Waititi,N/A,N/A
+154,Bleed for This,"$5,083,906",Open Road Films,Sports Drama,R,"November 18, 2016",1 hrs. 56 min.,$6 million,N/A,N/A,"Aaron Eckhart,Miles Teller"
+155,Incarnate,"$4,799,774",BH Tilt,Horror,PG-13,"December 2, 2016",1 hrs. 31 min.,$5 million,Brad Peyton,N/A,Aaron Eckhart
+156,Absolutely Fabulous: The Movie,"$4,772,155",Fox Searchlight,Comedy,R,"July 22, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+157,Hands of Stone,"$4,712,792",Weinstein Company,Drama,R,"August 26, 2016",1 hrs. 45 min.,N/A,N/A,N/A,"Robert DeNiro,Edgar Ramirez"
+158,Don't Think Twice,,The Film Arcade,Comedy / Drama,R,"July 22, 2016",1 hrs. 32 min.,N/A,N/A,N/A,N/A
+159,The Meddler,"$4,267,218",Sony Classics,Comedy,PG-13,"April 22, 2016",1 hrs. 40 min.,N/A,Lorene Scafaria,N/A,"Rose Byrne,Susan Sarandon"
+160,Ae Dil Hai Mushkil,"$4,264,983",FIP,Drama,Unrated,"October 28, 2016",2 hrs. 38 min.,N/A,N/A,N/A,N/A
+161,A Hologram for the King,"$4,212,494",Roadside Attractions,Drama,R,"April 22, 2016",1 hrs. 48 min.,N/A,Tom Tykwer,N/A,Tom Hanks
+162,Swiss Army Man,"$4,210,454",A24,Comedy,R,"June 24, 2016",1 hrs. 35 min.,N/A,N/A,N/A,"Paul Dano,Daniel Radcliffe,Mary Elizabeth Winstead"
+163,Denial,"$4,073,489",Bleecker Street,Drama,PG-13,"September 30, 2016",1 hrs. 50 min.,N/A,N/A,N/A,"Rachel Weisz,Tom Wilkinson"
+164,Morgan,"$3,915,251",Fox,Sci-Fi Thriller,R,"September 2, 2016",1 hrs. 32 min.,$8 million,N/A,Ridley Scott,"Kate Mara,Paul Giamatti,Michelle Yeoh"
+165,Kabali,,CineGalaxy,Action / Crime,Unrated,"July 21, 2016",2 hrs. 33 min.,N/A,N/A,N/A,N/A
+166,The Man Who Knew Infinity,"$3,866,794",IFC,Drama,PG-13,"April 29, 2016",1 hrs. 49 min.,N/A,N/A,N/A,"Jeremy Irons,Dev Patel"
+167,Where to Invade Next,"$3,827,261",Drafthouse,Documentary,R,"February 12, 2016",1 hrs. 59 min.,N/A,Michael Moore,N/A,N/A
+168,Max Steel,"$3,818,664",Open Road Films,Action,PG-13,"October 14, 2016",1 hrs. 32 min.,N/A,N/A,N/A,N/A
+169,Batman: The Killing Joke,"$3,775,000",Fathom,Animation,R,"July 25, 2016",1 hrs. 16 min.,N/A,N/A,N/A,Mark Hamill
+170,A Monster Calls,"$3,740,823",Focus Features,Fantasy Drama,PG-13,"December 23, 2016",1 hrs. 48 min.,N/A,J.A. Bayona,N/A,"Felicity Jones,Sigourney Weaver,Liam Neeson"
+171,Midnight Special,"$3,712,282",Warner Bros.,Sci-Fi,PG-13,"March 18, 2016",1 hrs. 51 min.,N/A,Jeff Nichols,N/A,"Kirsten Dunst,Michael Shannon"
+172,Rules Don't Apply,"$3,652,206",Fox,Comedy / Drama,PG-13,"November 23, 2016",2 hrs. 6 min.,$25 million,Warren Beatty,N/A,"Lily Collins,Warren Beatty,Matthew Broderick,Alec Baldwin,Ed Harris,Annette Bening,Steve Coogan"
+173,Miss Sloane,"$3,500,605",EuropaCorp,Drama / Thriller,R,"November 25, 2016",2 hrs. 12 min.,N/A,John Madden,N/A,"Jessica Chastain,Mark Strong"
+174,A Man Called Ove,"$3,479,315",Music Box Films,Comedy / Drama,PG-13,"September 30, 2016",1 hrs. 56 min.,N/A,N/A,N/A,N/A
+175,Indignation,"$3,401,155",Roadside Attractions,Drama,R,"July 29, 2016",1 hrs. 50 min.,N/A,N/A,N/A,"Logan Lerman,Tracy Letts"
+176,Everybody Wants Some!!,"$3,400,278",Paramount,Comedy,R,"March 30, 2016",1 hrs. 57 min.,N/A,Richard Linklater,"Megan Ellison,Richard Linklater",N/A
+177,Maggie's Plan,"$3,351,735",Sony Classics,Comedy,R,"May 20, 2016",1 hrs. 32 min.,N/A,N/A,N/A,"Greta Gerwig,Ethan Hawke,Julianne Moore"
+178,Sing Street,"$3,237,118",Weinstein Company,Musical,PG-13,"April 15, 2016",1 hrs. 45 min.,N/A,N/A,N/A,N/A
+179,The Mermaid (Mei ren yu),"$3,232,685",Sony / Columbia,Fantasy Drama,R,"February 19, 2016",1 hrs. 40 min.,N/A,N/A,N/A,N/A
+180,Green Room,"$3,220,371",A24,Thriller,R,"April 15, 2016",1 hrs. 34 min.,N/A,Jeremy Saulnier,N/A,"Macon Blair,Imogen Poots,Patrick Stewart,Anton Yelchin"
+181,The Eagle Huntress,"$3,169,351",Sony Classics,Documentary,G,"November 2, 2016",1 hrs. 27 min.,N/A,N/A,N/A,N/A
+182,Our Kind of Traitor,"$3,153,157",Roadside Attractions,Drama,R,"July 1, 2016",1 hrs. 48 min.,N/A,Susanna White,N/A,"Naomie Harris,Ewan McGregor,Stellan Skarsgard"
+183,Compadres,"$3,127,773",Pantelion,Action,R,"April 22, 2016",1 hrs. 41 min.,N/A,N/A,N/A,N/A
+184,The Other Side of the Door,"$3,000,342",Fox,Horror,R,"March 4, 2016",1 hrs. 36 min.,N/A,N/A,N/A,N/A
+185,Anthropoid,"$2,964,845",Bleecker Street,War Drama,R,"August 12, 2016",2 hrs. 0 min.,N/A,N/A,N/A,Cillian Murphy
+186,The Beatles: Eight Days a Week - The Touring Years,"$2,930,414",Abramorama,Documentary,Unrated,"September 15, 2016",1 hrs. 39 min.,N/A,Ron Howard,N/A,N/A
+187,2016 Oscar Nominated Short Films,"$2,816,816",Shorts International,Unknown,Unrated,"January 29, 2016",N/A,N/A,N/A,N/A,N/A
+188,Ip Man 3,"$2,679,437",Well Go USA,Action,PG-13,"January 22, 2016",1 hrs. 45 min.,N/A,N/A,N/A,Donnie Yen
+189,Miles Ahead,"$2,610,896",Sony Classics,Drama,R,"April 1, 2016",1 hrs. 40 min.,N/A,Don Cheadle,N/A,"Don Cheadle,Ewan McGregor,Lakeith Stanfield"
+190,Kapoor & Sons - Since 1921,"$2,607,036",FIP,Comedy,Unrated,"March 18, 2016",2 hrs. 12 min.,N/A,N/A,N/A,N/A
+191,The Disappointments Room,"$2,423,468",Relativity,Horror,R,"September 9, 2016",1 hrs. 32 min.,$15 million,D.J. Caruso,"Ryan Kavanaugh,Tucker Tooley",Kate Beckinsale
+192,Hillsong - Let Hope Rise,"$2,394,386",Pure Flix,Documentary,PG,"September 16, 2016",1 hrs. 43 min.,N/A,N/A,N/A,N/A
+193,Dear Zindagi,"$2,376,479",Reliance Big Pictures,Comedy,Unrated,"November 23, 2016",2 hrs. 30 min.,N/A,N/A,N/A,N/A
+194,Elle,"$2,341,534",Sony Classics,Drama / Thriller,R,"November 11, 2016",2 hrs. 10 min.,N/A,Paul Verhoeven,N/A,N/A
+195,A Aa,"$2,313,043",Blue Sky Cinema,Comedy / Drama,Unrated,"June 1, 2016",2 hrs. 32 min.,N/A,N/A,N/A,N/A
+196,Fan,"$2,300,000",Yash Raj,Comedy / Drama,Unrated,"April 15, 2016",2 hrs. 18 min.,$15.67 million,N/A,N/A,N/A
+197,Paterson,"$2,152,738",Bleecker Street,Comedy / Drama,R,"December 28, 2016",1 hrs. 53 min.,N/A,Jim Jarmusch,N/A,N/A
+198,Train to Busan,,Well Go USA,Action Thriller,Unrated,"July 22, 2016",1 hrs. 58 min.,N/A,N/A,N/A,N/A
+199,I'm Not Ashamed,"$2,082,980",Pure Flix,Drama,PG-13,"October 21, 2016",1 hrs. 52 min.,N/A,N/A,N/A,N/A
+200,A Bigger Splash,"$2,024,099",Fox Searchlight,Crime Drama,R,"May 4, 2016",2 hrs. 4 min.,N/A,Luca Guadagnino,N/A,"Ralph Fiennes,Matthias Schoenaerts,Tilda Swinton"
+201,The Dressmaker,"$2,022,115",Broad Green Pictures,Drama,R,"September 23, 2016",1 hrs. 58 min.,N/A,N/A,N/A,"Liam Hemsworth,Hugo Weaving,Kate Winslet"
+202,The Handmaiden,"$2,006,788",Magnolia,Drama / Thriller,Unrated,"October 21, 2016",2 hrs. 25 min.,N/A,N/A,N/A,N/A
+203,Desierto,"$2,002,036",STX Entertainment,Drama / Thriller,R,"October 14, 2016",1 hrs. 30 min.,N/A,Jonas Cuaron,N/A,"Gael Garcia Bernal,Jeffrey Dean Morgan"
+204,Greater,"$2,000,093",Hammond,Family,PG,"August 26, 2016",2 hrs. 10 min.,N/A,N/A,N/A,N/A
+205,Demolition,"$1,978,592",Fox Searchlight,Drama,R,"April 8, 2016",1 hrs. 41 min.,N/A,Jean-Marc Vallee,N/A,"Chris Cooper,Jake Gyllenhaal,Naomi Watts"
+206,Shin Godzilla,"$1,918,403",FUNimation Films,Action / Adventure,Unrated,"October 11, 2016",1 hrs. 58 min.,N/A,N/A,N/A,N/A
+207,Purple Rain (2016 re-release),,Warner Bros.,Music Drama,R,"April 23, 2016",1 hrs. 51 min.,N/A,N/A,N/A,N/A
+208,M.S. Dhoni: The Untold Story,"$1,801,550",FIP,Sports Drama,Unrated,"September 30, 2016",3 hrs. 10 min.,N/A,N/A,N/A,N/A
+209,Busco Novio Para Mi Mujer,"$1,741,889",Pantelion,Comedy,PG-13,"February 19, 2016",1 hrs. 32 min.,N/A,N/A,N/A,N/A
+210,Billy Lynn's Long Halftime Walk,"$1,738,477",TriStar,War,R,"November 11, 2016",1 hrs. 50 min.,N/A,Ang Lee,N/A,"Vin Diesel,Garrett Hedlund,Steve Martin,Kristen Stewart,Chris Tucker"
+211,Harry Potter IMAX Marathon,"$1,729,226",IMAX,Fantasy,Unknown,"October 14, 2016",N/A,N/A,N/A,N/A,N/A
+212,"To Joey, with Love","$1,709,073",Fathom,Documentary,Unrated,"September 20, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+213,Weiner,"$1,676,108",IFC,Documentary,R,"May 20, 2016",1 hrs. 36 min.,N/A,N/A,N/A,N/A
+214,The Comedian,"$1,659,002",Sony Classics,Comedy,R,"December 9, 2016",1 hrs. 59 min.,N/A,Taylor Hackford,N/A,"Robert DeNiro,Leslie Mann,Danny DeVito"
+215,I Saw the Light,"$1,646,788",Sony Classics,Drama,R,"March 25, 2016",2 hrs. 3 min.,N/A,Marc Abraham,Brett Ratner,"Tom Hiddleston,Elizabeth Olsen"
+216,Equity,"$1,605,463",Sony Classics,Drama,R,"July 29, 2016",1 hrs. 40 min.,N/A,N/A,N/A,James Purefoy
+217,Neerja,"$1,585,687",FIP,Drama,Unrated,"February 19, 2016",2 hrs. 2 min.,N/A,N/A,N/A,N/A
+218,Jane Got a Gun,"$1,513,793",Weinstein Company,Western,R,"January 29, 2016",1 hrs. 38 min.,N/A,Gavin O'Connor,Natalie Portman,"Natalie Portman,Rodrigo Santoro,Ewan McGregor"
+219,Priceless (2016),"$1,499,605",Roadside Attractions,Drama,PG-13,"October 14, 2016",1 hrs. 37 min.,N/A,N/A,N/A,N/A
+220,Julieta,"$1,490,948",Sony Classics,Drama,R,"December 21, 2016",1 hrs. 39 min.,N/A,Pedro Almodovar,N/A,N/A
+221,Toni Erdmann,"$1,479,387",Sony Classics,Comedy / Drama,R,"December 25, 2016",2 hrs. 42 min.,N/A,N/A,N/A,N/A
+222,Genius,"$1,361,045",Roadside Attractions,Drama,PG-13,"June 10, 2016",1 hrs. 44 min.,N/A,N/A,N/A,"Colin Firth,Nicole Kidman,Jude Law,Laura Linney,Guy Pearce"
+223,The Little Prince,,Entertainment One,Animation,PG,"February 12, 2016",1 hrs. 48 min.,N/A,N/A,N/A,N/A
+224,The Neon Demon,"$1,333,124",Broad Green Pictures,Horror Thriller,R,"June 24, 2016",1 hrs. 57 min.,N/A,Nicolas Winding Refn,N/A,"Elle Fanning,Jena Malone,Keanu Reeves"
+225,Embrace of the Serpent,"$1,329,249",Oscilloscope Pictures,Drama,Unrated,"February 17, 2016",2 hrs. 2 min.,N/A,N/A,N/A,N/A
+226,Housefull 3,"$1,326,999",Eros,Romantic Comedy,Unrated,"June 3, 2016",2 hrs. 20 min.,N/A,N/A,N/A,N/A
+227,Mohenjo Daro,"$1,264,339",UTV Communications,Action / Adventure,Unrated,"August 12, 2016",2 hrs. 35 min.,N/A,N/A,N/A,N/A
+228,Lazer Team,"$1,186,426",Amplify,Sci-Fi Comedy,PG-13,"January 27, 2016",1 hrs. 42 min.,N/A,N/A,N/A,N/A
+229,The Music of Strangers,"$1,176,781",The Orchard,Documentary,PG-13,"June 10, 2016",1 hrs. 36 min.,N/A,N/A,N/A,N/A
+230,Vaxxed: From Cover-Up to Catastrophe,"$1,163,265",Cinema Libre Studio,Documentary,Unrated,"April 1, 2016",1 hrs. 31 min.,N/A,N/A,N/A,N/A
+231,Dough,"$1,148,304",Menemsha,Comedy / Drama,Unrated,"February 12, 2016",1 hrs. 34 min.,N/A,N/A,N/A,N/A
+232,Wazir,"$1,124,045",Reliance Big Pictures,Thriller,Unrated,"January 8, 2016",1 hrs. 42 min.,N/A,N/A,N/A,N/A
+233,Papa: Hemingway in Cuba,"$1,115,615",Yari Film Group,Drama,Unrated,"April 29, 2016",1 hrs. 49 min.,N/A,Bob Yari,N/A,"Minka Kelly,Giovanni Ribisi"
+234,The Insanity of God,"$1,102,525",LifeWay Films,Documentary,Unrated,"August 30, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+235,Certain Women,"$1,087,585",IFC,Drama,R,"October 14, 2016",1 hrs. 47 min.,N/A,Kelly Reichardt,N/A,"Kristen Stewart,Michelle Williams,Rosanna Arquette"
+236,Rustom,"$1,087,419",Zee TV,Romantic Thriller,Unrated,"August 12, 2016",2 hrs. 30 min.,N/A,N/A,N/A,N/A
+237,The Innocents,"$1,065,665",Music Box Films,Drama,PG-13,"July 1, 2016",1 hrs. 55 min.,N/A,N/A,N/A,N/A
+238,Elvis & Nixon,"$1,055,287",Bleecker Street,Drama,R,"April 22, 2016",1 hrs. 26 min.,N/A,N/A,N/A,"Johnny Knoxville,Tracy Letts,Alex Pettyfer,Michael Shannon,Kevin Spacey"
+239,Operation Chromite,"$1,023,348",CJ Entertainment,War Drama,Unrated,"August 5, 2016",1 hrs. 55 min.,N/A,N/A,N/A,Liam Neeson
+240,The Hollars,"$1,016,985",Sony Classics,Comedy / Drama,PG-13,"August 26, 2016",1 hrs. 28 min.,N/A,John Krasinski,N/A,"Sharlto Copley,Charlie Day,Anna Kendrick,John Krasinski,Mary Elizabeth Winstead"
+241,Baar Baar Dekho,"$981,947",Eros,Comedy / Drama,Unrated,"September 9, 2016",2 hrs. 21 min.,N/A,N/A,N/A,N/A
+242,Dark Horse (2016),,Sony Classics,Documentary,PG,"May 6, 2016",1 hrs. 25 min.,N/A,N/A,N/A,N/A
+243,Neruda,"$939,101",The Orchard,Drama,R,"December 16, 2016",1 hrs. 47 min.,N/A,Pablo Larrain,N/A,Gael Garcia Bernal
+244,Gentleman,"$897,876",Gaatri Media,Drama / Thriller,Unrated,"June 17, 2016",2 hrs. 24 min.,N/A,N/A,N/A,N/A
+245,Believe (2016),"$890,303",Freestyle Releasing,Family,PG,"December 2, 2016",1 hrs. 59 min.,N/A,N/A,N/A,N/A
+246,Ki & Ka,"$857,986",Eros,Romantic Comedy,Unrated,"April 1, 2016",2 hrs. 6 min.,N/A,N/A,N/A,N/A
+247,Premam,"$828,278",Blue Sky Cinema,Comedy / Drama,Unrated,"October 6, 2016",2 hrs. 37 min.,N/A,N/A,N/A,N/A
+248,Dishoom,"$812,737",Eros,Action / Adventure,Unrated,"July 29, 2016",2 hrs. 4 min.,N/A,N/A,N/A,N/A
+249,Operation Mekong,"$800,012",Well Go USA,Action,Unrated,"September 30, 2016",2 hrs. 4 min.,N/A,N/A,N/A,N/A
+250,The Wailing (Goksung),"$786,633",Well Go USA,Drama / Thriller,Unrated,"May 20, 2016",2 hrs. 36 min.,N/A,N/A,N/A,N/A
+251,31,"$779,820",Saban Films,Horror,R,"August 26, 2016",1 hrs. 42 min.,N/A,Rob Zombie,N/A,N/A
+252,Chongqing Hot Pot,"$779,818",China Lion,Thriller,Unrated,"April 1, 2016",1 hrs. 34 min.,N/A,N/A,N/A,N/A
+253,The Polar Express (2016 re-issue),"$765,154Domestic Lifetime Gross $186,493,472",Warner Bros.,Animation,G,"November 11, 2016",1 hrs. 40 min.,N/A,N/A,N/A,N/A
+254,I Belonged to You,"$744,541",China Lion,Romance,Unrated,"September 30, 2016",1 hrs. 52 min.,N/A,N/A,N/A,N/A
+255,Saturday's Warrior,"$744,046",Purdie Distribution,Musical,PG,"April 1, 2016",1 hrs. 59 min.,N/A,N/A,N/A,N/A
+256,The Monkey King 2 in 3D,"$709,982",China Lion,Action / Adventure,Unrated,"February 5, 2016",1 hrs. 58 min.,N/A,N/A,N/A,N/A
+257,Little Men (2016),"$702,537",Magnolia,Drama,PG,"August 5, 2016",1 hrs. 25 min.,N/A,N/A,N/A,"Alfred Molina,Greg Kinnear"
+258,Chaar Sahibzaade: Rise of Band Singh Bahadur,"$700,723",Eros,Animation,Unrated,"November 11, 2016",2 hrs. 14 min.,N/A,N/A,N/A,N/A
+259,Mr. Church,"$685,780",Freestyle Releasing,Drama,PG-13,"September 16, 2016",1 hrs. 44 min.,N/A,N/A,Mark Canton,Eddie Murphy
+260,Born to be Blue (US Release),"$678,203Domestic Lifetime Gross $830,129",IFC,Drama,R,"March 25, 2016",1 hrs. 37 min.,N/A,N/A,N/A,Ethan Hawke
+261,American Honey,"$663,246",A24,Drama,R,"September 30, 2016",2 hrs. 42 min.,N/A,N/A,N/A,Shia LaBeouf
+262,El Jeremias,"$650,465",Sony / Columbia,Comedy / Drama,PG-13,"October 21, 2016",1 hrs. 35 min.,N/A,N/A,N/A,N/A
+263,City of Gold,"$640,979",IFC,Documentary,R,"March 11, 2016",1 hrs. 29 min.,N/A,N/A,N/A,N/A
+264,Remember (US Release),,A24,Drama / Thriller,R,"March 11, 2016",1 hrs. 35 min.,N/A,Atom Egoyan,N/A,"Dean Norris,Christopher Plummer"
+265,Embrace: The Documentary,,Gathr Films,Documentary,Unrated,"September 19, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+266,Range 15,,Tugg,Horror Comedy,Unrated,"June 15, 2016",1 hrs. 42 min.,N/A,N/A,N/A,N/A
+267,The Bronze,"$615,816",Sony Classics,Comedy,R,"March 18, 2016",1 hrs. 48 min.,N/A,N/A,N/A,Sebastian Stan
+268,Tickled,"$613,956",Magnolia,Documentary,R,"June 17, 2016",1 hrs. 32 min.,N/A,N/A,N/A,N/A
+269,Master,"$597,251",CJ Entertainment,Action / Crime,Unrated,"December 30, 2016",2 hrs. 23 min.,N/A,N/A,N/A,N/A
+270,"Lo and Behold, Reveries of the Connected World","$594,912",Magnolia,Documentary,PG-13,"August 19, 2016",1 hrs. 38 min.,N/A,Werner Herzog,N/A,N/A
+271,Gleason,"$583,664",Open Road Films,Documentary,R,"July 29, 2016",1 hrs. 50 min.,N/A,N/A,N/A,N/A
+272,A Tale of Love and Darkness,"$572,212",Focus Features,Drama,PG-13,"August 19, 2016",1 hrs. 35 min.,N/A,Natalie Portman,N/A,Natalie Portman
+273,Tunnel,"$568,876",Well Go USA,Drama,Unrated,"August 26, 2016",2 hrs. 7 min.,N/A,N/A,N/A,N/A
+274,Knight of Cups,"$566,006",Broad Green Pictures,Drama,R,"March 4, 2016",1 hrs. 58 min.,N/A,Terrence Malick,N/A,"Christian Bale,Cate Blanchett,Teresa Palmer,Freida Pinto,Imogen Poots,Natalie Portman"
+275,Harry & Snowman,"$561,460",FilmRise,Documentary,Unrated,"September 30, 2016",1 hrs. 22 min.,N/A,N/A,N/A,N/A
+276,Cold War 2,"$560,824",Well Go USA,Action Thriller,Unrated,"July 8, 2016",1 hrs. 54 min.,N/A,N/A,N/A,N/A
+277,American Pastoral,"$544,098",Lionsgate,Drama,R,"October 21, 2016",1 hrs. 48 min.,N/A,Ewan McGregor,"Gary Lucchesi,Tom Rosenberg","Ewan McGregor,Jennifer Connelly,Dakota Fanning"
+278,The Age of Shadows,"$541,719",CJ Entertainment,Action Drama,Unrated,"September 23, 2016",2 hrs. 20 min.,N/A,Jee-woon Kim,N/A,Kang-ho Song
+279,Fitoor,"$528,799",UTV Communications,Romance,Unrated,"February 12, 2016",2 hrs. 10 min.,N/A,N/A,N/A,N/A
+280,The First Monday in May,"$527,474",Magnolia,Documentary,PG-13,"April 15, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+281,Willy Wonka and the Chocolate Factory (2016 re-release),,Warner Bros.,Family Comedy,G,"September 3, 2016",1 hrs. 40 min.,N/A,N/A,N/A,N/A
+282,Unsullied,"$510,957",Indican,Action Horror,R,"April 22, 2016",1 hrs. 32 min.,N/A,N/A,N/A,N/A
+283,Befikre,"$498,000",Yash Raj,Drama,Unrated,"December 9, 2016",2 hrs. 30 min.,N/A,N/A,N/A,N/A
+284,Marguerite,"$497,323",Cohen Media Group,Drama,R,"March 11, 2016",2 hrs. 9 min.,N/A,N/A,N/A,N/A
+285,The Boy and the Beast,"$490,643",FUNimation Films,Animation,PG-13,"March 4, 2016",1 hrs. 59 min.,N/A,N/A,N/A,N/A
+286,Wiener-Dog,"$477,453",IFC,Comedy,R,"June 24, 2016",1 hrs. 30 min.,N/A,Todd Solondz,N/A,"Rory Culkin,Julie Delpy,Danny DeVito,Greta Gerwig,Tracy Letts"
+287,Detective Chinatown (Tang ren jie tan an),"$474,252",China Lion,Foreign,Unrated,"January 15, 2016",2 hrs. 16 min.,N/A,N/A,N/A,N/A
+288,Our Little Sister,,Sony Classics,Drama,PG,"July 8, 2016",2 hrs. 8 min.,N/A,N/A,N/A,N/A
+289,Luck-Key,"$466,505",JBG Pictures,Comedy,Unrated,"October 21, 2016",1 hrs. 52 min.,N/A,N/A,N/A,N/A
+290,Only Yesterday (2016 re-release),"$453,243",GKIDS,Animation,PG,"January 1, 2016",1 hrs. 58 min.,N/A,N/A,N/A,N/A
+291,Gimme Danger,"$440,627",Magnolia,Documentary,R,"October 28, 2016",1 hrs. 48 min.,N/A,Jim Jarmusch,N/A,N/A
+292,Baaghi,"$438,207",UTV Communications,Action Comedy,Unrated,"April 29, 2016",2 hrs. 13 min.,N/A,N/A,N/A,N/A
+293,I Am Not Madame Bovary,"$436,798",Well Go USA,Comedy / Drama,Unrated,"November 18, 2016",2 hrs. 4 min.,N/A,N/A,N/A,N/A
+294,Land of Mine,"$435,266",Sony Classics,War Drama,R,"December 16, 2016",1 hrs. 40 min.,N/A,N/A,N/A,N/A
+295,Mad Max: Fury Road (Academy Re-Release),"$421,986Domestic Lifetime Gross $154,058,340",Warner Bros.,Sci-Fi Action,R,"January 15, 2016",2 hrs. 0 min.,N/A,N/A,N/A,N/A
+296,Voiceless,"$419,952",ArtAffects,Drama,PG-13,"October 7, 2016",1 hrs. 47 min.,N/A,N/A,N/A,N/A
+297,Things To Come,"$388,140",IFC,Drama,PG-13,"December 2, 2016",1 hrs. 42 min.,N/A,N/A,N/A,N/A
+298,The Wasted Times,"$386,540",China Lion,Drama,Unrated,"December 16, 2016",1 hrs. 58 min.,N/A,N/A,N/A,N/A
+299,The Lobster (Canada Release),,Mongrel Media,Comedy / Drama,Unknown,"March 25, 2016",1 hrs. 58 min.,N/A,N/A,N/A,N/A
+300,Mr. Donkey,"$356,255",China Lion,Comedy,Unrated,"October 28, 2016",1 hrs. 52 min.,N/A,N/A,N/A,N/A
+301,Eat That Question: Frank Zappa in His Own Words,"$355,074",Sony Classics,Documentary,R,"June 24, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+302,Happy Bhaag Jayegi,"$351,840",Eros,Romantic Comedy,Unrated,"August 19, 2016",2 hrs. 6 min.,N/A,N/A,N/A,N/A
+303,Kahaani 2,"$350,703",Eros,Thriller,Unrated,"December 2, 2016",2 hrs. 7 min.,N/A,N/A,N/A,N/A
+304,L.O.R.D: Legend of Ravaging Dynasties,"$350,456",Asia Releasing,Animation,Unrated,"September 30, 2016",1 hrs. 58 min.,N/A,N/A,N/A,N/A
+305,High-Rise,"$346,472",Magnolia,Action Drama,R,"May 13, 2016",1 hrs. 59 min.,N/A,N/A,N/A,"Luke Evans,Tom Hiddleston,Jeremy Irons,Elisabeth Moss,James Purefoy"
+306,Te3n,"$331,507",Reliance Films,Crime Thriller,Unrated,"June 10, 2016",2 hrs. 15 min.,N/A,N/A,N/A,N/A
+307,Kaashmora,"$327,959",CineGalaxy,Fantasy,Unrated,"October 28, 2016",2 hrs. 43 min.,N/A,N/A,N/A,N/A
+308,The Bounce Back,"$321,910",Viva Pictures Distribution,Romantic Comedy,PG-13,"December 9, 2016",1 hrs. 44 min.,N/A,N/A,N/A,N/A
+309,AmeriGeddon,"$316,554",Forewarned,Action,PG-13,"May 13, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+310,Francofonia,"$307,040",Music Box Films,Documentary,Unrated,"April 1, 2016",1 hrs. 28 min.,N/A,N/A,N/A,N/A
+311,Mia Madre,"$303,002",Music Box Films,Drama,R,"August 26, 2016",1 hrs. 47 min.,N/A,N/A,N/A,N/A
+312,Christine (2016),"$298,525",The Orchard,Drama,R,"October 14, 2016",1 hrs. 55 min.,N/A,N/A,N/A,"Rebecca Hall,Tracy Letts"
+313,April and the Extraordinary World,"$295,488",GKIDS,Animation,PG,"March 25, 2016",1 hrs. 45 min.,N/A,N/A,N/A,N/A
+314,Ixcanul,"$295,157",Kino Lorber,Drama,Unrated,"April 9, 2016",1 hrs. 33 min.,N/A,N/A,N/A,N/A
+315,The People vs. Fritz Bauer,"$288,483",Cohen Media Group,Drama,R,"August 19, 2016",1 hrs. 45 min.,N/A,N/A,N/A,N/A
+316,Aquarius,"$285,930",Vitagraph,Drama,Unrated,"October 14, 2016",2 hrs. 22 min.,N/A,N/A,N/A,N/A
+317,Kingsglaive: Final Fantasy: XV,"$269,980",Vertical Entertainment,Animation,PG-13,"August 19, 2016",1 hrs. 50 min.,N/A,N/A,N/A,"Sean Bean,Lena Headey"
+318,My Golden Days,"$269,144",Magnolia,Drama,R,"March 18, 2016",2 hrs. 3 min.,N/A,N/A,N/A,N/A
+319,The Family Fang,"$262,921",Starz Media,Comedy,R,"April 29, 2016",1 hrs. 45 min.,N/A,Jason Bateman,N/A,"Jason Bateman,Nicole Kidman,Christopher Walken"
+320,Minimalism: A Documentary About the Important Things,"$261,865",Gathr Films,Documentary,Unrated,"May 24, 2016",1 hrs. 19 min.,N/A,N/A,N/A,N/A
+321,Dheepan,"$261,819",IFC,Crime Drama,R,"May 6, 2016",1 hrs. 55 min.,N/A,Jacques Audiard,N/A,N/A
+322,Yo-kai Watch: The Movie,,Eleven Arts,Animation,Unrated,"October 15, 2016",N/A,N/A,N/A,N/A,N/A
+323,"Life, Animated","$255,388",The Orchard,Documentary,Unrated,"July 1, 2016",1 hrs. 29 min.,N/A,N/A,N/A,N/A
+324,Oasis: Supersonic,"$242,867",A24,Documentary,R,"October 26, 2016",2 hrs. 2 min.,N/A,N/A,N/A,N/A
+325,The Invitation,"$231,737",Drafthouse,Horror Thriller,Unrated,"April 8, 2016",1 hrs. 40 min.,N/A,Karyn Kusama,N/A,N/A
+326,Jimmy Vestvood: Amerikan Hero,,Sky Island Films,Comedy,Unrated,"May 13, 2016",1 hrs. 24 min.,N/A,N/A,N/A,N/A
+327,The Love Witch,"$228,894",Oscilloscope Pictures,Horror Comedy,Unrated,"November 11, 2016",2 hrs. 0 min.,N/A,N/A,N/A,N/A
+328,Tampopo (2016 re-release),"$224,097",Janus Films,Western Comedy,Unrated,"October 21, 2016",1 hrs. 55 min.,N/A,N/A,N/A,N/A
+329,Miss Hokusai,"$222,670",GKIDS,Animation,PG-13,"October 14, 2016",1 hrs. 33 min.,N/A,N/A,N/A,N/A
+330,Spirit of the Game,,Samuel Goldwyn,Sports,PG,"October 7, 2016",1 hrs. 37 min.,N/A,N/A,N/A,N/A
+331,Naam Hai Akira,"$219,401",FIP,Action Drama,Unrated,"September 2, 2016",2 hrs. 19 min.,N/A,N/A,N/A,N/A
+332,Ho Mann Jahaan,"$208,611",Eros,Musical,Unrated,"January 1, 2016",2 hrs. 50 min.,N/A,N/A,N/A,N/A
+333,Seed: The Untold Story,,Collective Eye,Documentary,Unrated,"August 22, 2016",1 hrs. 34 min.,N/A,N/A,N/A,N/A
+334,Kaptaan,"$203,790",UTV Communications,Comedy / Drama,Unrated,"May 20, 2016",2 hrs. 22 min.,N/A,N/A,N/A,N/A
+335,El Clan,"$201,227",FIP,Crime Thriller,R,"March 18, 2016",1 hrs. 50 min.,N/A,N/A,N/A,N/A
+336,White Girl,"$200,242",FilmRise,Drama,Unrated,"September 2, 2016",1 hrs. 28 min.,N/A,N/A,N/A,Justin Bartha
+337,The Fallen Idol (2016 re-issue),"$199,619Domestic Lifetime Gross $341,121",Rialto,Drama,Unrated,"May 27, 2016",1 hrs. 35 min.,N/A,N/A,N/A,N/A
+338,Complete Unknown,"$191,761",IFC,Drama / Thriller,R,"August 26, 2016",1 hrs. 30 min.,N/A,N/A,N/A,"Rachel Weisz,Michael Shannon,Kathy Bates"
+339,Digimon Adventure tri.,"$190,581",Eleven Arts,Animation,Unrated,"September 15, 2016",1 hrs. 36 min.,N/A,N/A,N/A,N/A
+340,The Masked Saint,"$182,695",Freestyle Releasing,Drama,PG-13,"January 8, 2016",1 hrs. 45 min.,N/A,N/A,N/A,N/A
+341,League of Gods,"$181,633",Sony / Columbia,Action Fantasy,PG-13,"July 29, 2016",1 hrs. 49 min.,N/A,N/A,N/A,Jet Li
+342,Viva,"$178,008",Magnolia,Drama,R,"April 29, 2016",1 hrs. 40 min.,N/A,N/A,N/A,N/A
+343,The Wave,"$177,404",Magnolia,Action Drama,R,"March 4, 2016",1 hrs. 44 min.,N/A,N/A,N/A,N/A
+344,Asura: The City of Madness,"$175,702",CJ Entertainment,Action / Crime,Unrated,"October 7, 2016",2 hrs. 16 min.,N/A,N/A,N/A,N/A
+345,Hieronymus Bosch: Touched by the Devil,"$172,533",Kino Lorber,Documentary,Unrated,"July 16, 2016",1 hrs. 26 min.,N/A,N/A,N/A,N/A
+346,Apparition Hill,"$170,457",Little Flower,Documentary,PG-13,"August 5, 2016",1 hrs. 54 min.,N/A,N/A,N/A,N/A
+347,The Fits,"$166,425",Oscilloscope Pictures,Drama,Unrated,"June 3, 2016",1 hrs. 12 min.,N/A,N/A,N/A,N/A
+348,De Palma,"$165,237",A24,Documentary,R,"June 10, 2016",1 hrs. 51 min.,N/A,Noah Baumbach,N/A,Brian De Palma
+349,Louder than Bombs,"$163,807",The Orchard,Drama,R,"April 8, 2016",1 hrs. 49 min.,N/A,N/A,N/A,"Jesse Eisenberg,Amy Ryan"
+350,Howards End (2016 Restoration),"$160,282Domestic Lifetime Gross $26,126,837",Cohen Media Group,Drama,PG,"August 26, 2016",2 hrs. 20 min.,N/A,N/A,N/A,N/A
+351,Beauty and the Beast (2016 re-issue),"$160,215Domestic Lifetime Gross $298,718",Janus Films,Fantasy,Unrated,"February 12, 2016",1 hrs. 33 min.,N/A,N/A,N/A,N/A
+352,Sunset Song,"$159,714",Magnolia,Drama,R,"May 13, 2016",2 hrs. 15 min.,N/A,N/A,N/A,N/A
+353,The Witness,"$159,305",FilmRise,Documentary,Unrated,"June 3, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+354,Eva Hesse,,Zeitgeist,Documentary,Unrated,"April 27, 2016",1 hrs. 48 min.,N/A,N/A,N/A,N/A
+355,Born to be Blue,,Entertainment One,Drama,Unknown,"March 4, 2016",1 hrs. 37 min.,N/A,N/A,N/A,Ethan Hawke
+356,Generation Found,"$151,751",Gathr Films,Documentary,Unrated,"August 29, 2016",1 hrs. 30 min.,N/A,N/A,N/A,N/A
+357,Kicks,"$150,191",Focus World,Drama,R,"September 9, 2016",1 hrs. 20 min.,N/A,N/A,N/A,N/A
+358,Seasons,"$150,092",Music Box Films,Documentary,PG,"November 25, 2016",1 hrs. 35 min.,N/A,N/A,N/A,N/A
+359,Rams (Hrútar),"$149,250",Cohen Media Group,Drama,R,"February 3, 2016",1 hrs. 33 min.,N/A,N/A,N/A,N/A
+360,Michael Moore In TrumpLand,"$149,090",Michael Moore,Documentary,Unrated,"October 19, 2016",1 hrs. 13 min.,N/A,Michael Moore,N/A,Michael Moore
+361,Touched with Fire,"$146,487",Roadside Attractions,Drama,R,"February 12, 2016",1 hrs. 50 min.,N/A,N/A,N/A,Katie Holmes
+362,Krisha,"$144,822",A24,Drama,R,"March 18, 2016",1 hrs. 22 min.,N/A,N/A,N/A,N/A
+363,Psycho-Pass: The Movie,"$138,366",FUNimation Films,Animation,Unrated,"March 15, 2016",1 hrs. 53 min.,N/A,N/A,N/A,N/A
+364,The Kind Words,,Strand,Comedy / Drama,Unrated,"June 24, 2016",1 hrs. 58 min.,N/A,N/A,N/A,N/A
+365,Tumbledown,"$135,026",Starz Media,Comedy / Drama,R,"February 5, 2016",1 hrs. 45 min.,N/A,N/A,N/A,"Dianna Agron,Rebecca Hall,Jason Sudeikis"
+366,ISM,"$134,165",CineGalaxy,Action / Adventure,Unrated,"October 21, 2016",2 hrs. 11 min.,N/A,N/A,N/A,N/A
+367,Dawson City: Frozen Time,"$132,369",Kino Lorber,Documentary,Unrated,"October 2, 2016",2 hrs. 0 min.,N/A,N/A,N/A,N/A
+368,Requiem for the American Dream,,The Film Collaborative,Documentary,Unrated,"January 29, 2016",1 hrs. 13 min.,N/A,N/A,N/A,N/A
+369,The Brand New Testament,"$127,910",Music Box Films,Fantasy Comedy,Unrated,"December 9, 2016",1 hrs. 52 min.,N/A,N/A,N/A,N/A
+370,Chimes at Midnight (2016 re-release),"$126,724",Janus Films,Comedy / Drama,Unrated,"January 1, 2016",1 hrs. 56 min.,N/A,N/A,N/A,N/A
+371,Spirits' Homecoming,"$125,616",Pan Media & Entertainment,Drama,Unrated,"March 11, 2016",2 hrs. 7 min.,N/A,N/A,N/A,N/A
+372,Sweet Bean,"$124,800",Kino Lorber,Drama,Unrated,"March 18, 2016",1 hrs. 53 min.,N/A,N/A,N/A,N/A
+373,A War,"$122,902",Magnolia,Drama,R,"February 12, 2016",1 hrs. 55 min.,N/A,N/A,N/A,N/A
+374,Fire at Sea,"$120,933",Kino Lorber,Documentary,Unrated,"September 18, 2016",1 hrs. 48 min.,N/A,N/A,N/A,N/A
+375,Miss Sharon Jones,"$120,880",Starz Media,Documentary,Unrated,"July 29, 2016",1 hrs. 34 min.,N/A,N/A,N/A,N/A
+376,Hockney,"$120,745",Film Movement,Documentary,Unrated,"April 22, 2016",1 hrs. 52 min.,N/A,N/A,N/A,N/A
+377,Three,"$119,550",Well Go USA,Action Thriller,Unrated,"June 24, 2016",1 hrs. 27 min.,N/A,N/A,N/A,N/A
+378,Remember the Goal,,Five & Two Pictures,Drama,PG,"August 26, 2016",1 hrs. 27 min.,N/A,N/A,N/A,N/A
+379,Tale of Tales,"$118,925",IFC,Fantasy,R,"April 22, 2016",2 hrs. 13 min.,N/A,N/A,N/A,"Salma Hayek,John C. Reilly"
+380,Victor,"$117,755",CanZion Films,Drama,PG-13,"September 15, 2016",1 hrs. 50 min.,N/A,N/A,N/A,N/A
+381,Caged No More,"$114,959",Freestyle Releasing,Drama / Thriller,PG-13,"January 22, 2016",1 hrs. 37 min.,N/A,N/A,N/A,N/A
+382,The Measure of a Man,"$112,391",Kino Lorber,Drama,Unrated,"April 15, 2016",1 hrs. 33 min.,N/A,N/A,N/A,N/A
+383,Elevator to the Gallows (2016 re-issue),"$111,267",Rialto,Drama,Unrated,"August 3, 2016",1 hrs. 31 min.,N/A,N/A,N/A,N/A
+384,Zero Days,"$109,649",Magnolia,Documentary,PG-13,"July 8, 2016",1 hrs. 54 min.,N/A,N/A,N/A,N/A
+385,Aferim!,,Big World Pictures,Comedy / Drama,Unrated,"January 22, 2016",1 hrs. 46 min.,N/A,N/A,N/A,N/A
+386,Best Worst Thing That Ever Could Have Happened,"$106,986",Abramorama,Documentary,Unrated,"November 18, 2016",1 hrs. 35 min.,N/A,N/A,N/A,N/A
+387,Dekalog (2016 re-release),"$106,494",Janus Films,Drama,Unrated,"September 2, 2016",9 hrs. 43 min.,N/A,N/A,N/A,N/A
+388,Until Forever (Por Siempre),"$105,358Domestic Lifetime Gross $141,197",CanZion Films,Romance,Unrated,"November 17, 2016",1 hrs. 40 min.,N/A,N/A,N/A,N/A
+389,Under the Sun (2016),"$105,036",Icarus Films,Documentary,Unrated,"July 6, 2016",1 hrs. 46 min.,N/A,N/A,N/A,N/A
+390,Dictator,"$104,734",Eros,Action,Unrated,"January 13, 2016",2 hrs. 35 min.,N/A,N/A,N/A,N/A
+391,Demon,"$104,038",The Orchard,Horror,R,"September 9, 2016",1 hrs. 34 min.,N/A,N/A,N/A,N/A
+392,Puerto Ricans in Paris,"$102,890",Focus World,Comedy,R,"June 10, 2016",1 hrs. 22 min.,N/A,N/A,N/A,Rosario Dawson
+393,Cameraperson,"$102,033",Janus Films,Documentary,Unrated,"September 9, 2016",1 hrs. 42 min.,N/A,N/A,N/A,N/A
+394,Tower,"$101,987",Kino Lorber,Documentary,Unrated,"September 28, 2016",1 hrs. 22 min.,N/A,N/A,N/A,N/A
+395,Our Last Tango,"$100,086",Strand,Foreign,Unrated,"April 15, 2016",1 hrs. 25 min.,N/A,N/A,N/A,N/A
+396,Rock On 2,"$98,868",Eros,Music Drama,Unrated,"November 11, 2016",2 hrs. 23 min.,N/A,N/A,N/A,N/A
+397,Seondal: The Man Who Sells the River,"$97,477",CJ Entertainment,Comedy,Unrated,"July 14, 2016",2 hrs. 0 min.,N/A,N/A,N/A,N/A
+398,So Young 2: Never Gone,"$96,421",China Lion,Romance,Not Yet Rated,"July 15, 2016",1 hrs. 40 min.,N/A,N/A,N/A,N/A
+399,The Fight Within,,GVN Releasing,Action Drama,PG-13,"August 12, 2016",1 hrs. 34 min.,N/A,N/A,N/A,N/A
